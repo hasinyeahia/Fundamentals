@@ -8,15 +8,15 @@
 2) Images must be organized in folders by normalized classification in both the 
     "Data Images" and "TestImages" folders (not included in repository due to size).
 
-2) Models are already trained. If you wish to retrain them, then for each 
+3) Models are already trained. If you wish to retrain them, then for each 
     antibiotic (Carbenicillin / Tobramycin):
-    i) Run all cells in the corresponding preprocessing notebook
-    ii) Run all cells in the corresponding model trainer notebook
+    1) Run all cells in the corresponding preprocessing notebook
+    2) Run all cells in the corresponding model trainer notebook
     
-3) Accuracy results are available in the "results" subdirectory. To re-test the 
+4) Accuracy results are available in the "results" subdirectory. To re-test the 
     classification accuracy for individual models, run the corresponding test notebooks. 
 
-4)To receive classifications on the total original image dataset, run the 
+5) To receive classifications on the total original image dataset, run the 
     "Resistance Classification on Total Image Dataset" notebook. The full bacteria 
     dataset must be in "testImages/Bacteria" (not included in repository due to size).
 
