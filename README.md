@@ -6,7 +6,7 @@
     well as tensorflow, keras, opencv dependencies.
     
 2) Images must be organized in folders by normalized classification in both the 
-    "Data Images" and "TestImages" folders (not included in repository due to size).
+    "Data Images" and "testImages" folders (not included in repository due to size).
 
 3) Models are already trained. If you wish to retrain them, then for each 
     antibiotic (Carbenicillin / Tobramycin):
