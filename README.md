@@ -9,18 +9,18 @@
     1) Download the "Data Images" folder linked below. Place the "Data Images" 
         folder in the project root ("Fundamentals") folder.
     2) For each antibiotic (Carbenicillin / Tobramycin)
-        i) Run all cells in the corresponding preprocessing notebook
-        ii) Run all cells in the corresponding model trainer notebook
+        1) Run all cells in the corresponding preprocessing notebook.
+        2) Run all cells in the corresponding model trainer notebook.
     
 3) Accuracy results are available in the "results" subdirectory. To re-test the 
     classification accuracy for individual models:
-    i) Download the "testImages" folder linked below.
-    ii) Place the "testImages" folder in the project root ("Fundamentals") folder. 
-    iii) Run the corresponding test notebooks. 
+    1) Download the "testImages" folder linked below.
+    2) Place the "testImages" folder in the project root ("Fundamentals") folder. 
+    3) Run the corresponding test notebooks. 
 
 4) To receive classifications on the total original image dataset:
-    i) Download the full bacteria dataset, and place all images into the "testImages/Bacteria" directory.
-    ii) Run the "Resistance Classification on Total Image Dataset" notebook. 
+    1) Download the full bacteria dataset, and place all images into the "testImages/Bacteria" directory.
+    2) Run the "Resistance Classification on Total Image Dataset" notebook. 
 
 
 ### Data Images
